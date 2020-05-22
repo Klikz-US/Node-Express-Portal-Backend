@@ -2,7 +2,7 @@ require("dotenv").config();
 
 const http_port = process.env.HTTP_PORT;
 const https_port = process.env.HTTPS_PORT;
-const allowed_domains = ["https://portal.klikz.us", "http://localhost:3000"];
+const allowed_domains = ["https://klikz.us", "http://localhost:3000"];
 
 const express = require("express");
 const bodyParser = require("body-parser");
