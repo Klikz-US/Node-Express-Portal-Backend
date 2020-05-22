@@ -1,0 +1,27 @@
+{
+  "name": "portal-backend",
+  "version": "1.0.0",
+  "description": "Node.js REST API server development for Portal Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klikz-US/Node-Express-Portal-Backend.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express",
+    "CORS",
+    "https",
+    "token",
+    "authentication"
+  ],
+  "author": "Murrell Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Klikz-US/Node-Express-Portal-Backend/issues"
+  },
+  "homepage": "https://github.com/Klikz-US/Node-Express-Portal-Backend#readme"
+}

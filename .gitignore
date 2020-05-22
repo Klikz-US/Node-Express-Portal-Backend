@@ -1,0 +1,5 @@
+# Envioremental Variables
+.env
+
+# SSL certification files
+/ssl
